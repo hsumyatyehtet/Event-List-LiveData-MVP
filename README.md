@@ -3,8 +3,8 @@
 
 * UI with recyclerview
 * coding with PADC architecture
-* network call by Retrofit data agent
-* deat store in persistent layer by Room Database
+* network call by using Retrofit data agent
+* deat store in persistent layer by using Room Database
 * set up MVP pattern
 * Android X , Live Data, View Model
 
